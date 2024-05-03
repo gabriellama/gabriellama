@@ -6,7 +6,7 @@
 
 <div>
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=gabriellama&show_icons=true&theme=material-palenight">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellama&layout=compact&theme=material-palenight">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellama&layout=compact&theme=material-palenight">
 </div>
 <div>
   <img align="right" alt="GABS" height="140" width="140"src="https://cdn.discordapp.com/attachments/1007706378124664843/1159218592202625026/picasion.com_187d6f8437a65b0636b4aa8b4e45479b.gif?ex=65303971&is=651dc471&hm=7478caff8e74e18d297c3c1b78afb9641b1b63a285250ba9208acce24096bdaf&"> 
